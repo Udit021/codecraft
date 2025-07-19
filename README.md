@@ -79,7 +79,3 @@ Through building this project, I practiced:
 Created by **Udit**
 
 ---
-
-## 📄 License
-
-This project is open source and free to use for educational and learning purposes.
